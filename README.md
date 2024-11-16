@@ -1,4 +1,4 @@
-Student WSIiZ w70682;
-Kierunek: Informatyka - Niestacjonarne;
-Przedmiot: Programowanie Obiektowe.;
-Repozytorium przeznaczone na zadania z laboratorium.;
+Student WSIiZ w70682\n
+Kierunek: Informatyka - Niestacjonarne\n
+Przedmiot: Programowanie Obiektowe.\n
+Repozytorium przeznaczone na zadania z laboratorium.\n
